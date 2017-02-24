@@ -1,2 +1,0 @@
-# mnemosyne
-Website files
